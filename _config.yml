@@ -20,7 +20,7 @@ locale: en-US
 title: "My Awesome Site"
 description: |
   これはページの説明文です
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: "/my-site"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /assets/img/aws.png
 date_format: "%B %-d, %Y"

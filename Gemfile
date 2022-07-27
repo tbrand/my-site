@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.2"
-# gem "jekyll-theme-clean-blog"
 gem "jekyll-theme-so-simple"
 
 group :jekyll_plugins do
