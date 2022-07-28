@@ -6,6 +6,7 @@ date:   2022-07-27 14:06:16 +0900
 author:
     name: 鈴木 太一郎
     picture: /assets/img/author/taichirs.jpeg
+image: /assets/img/aws.png
 ---
 
 ![]({{ site.baseurl }}/assets/img/aws.png)
