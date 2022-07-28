@@ -3,13 +3,12 @@ layout: post
 title:  "Welcome to Jekyll!"
 subtitle: "Welcome to the clean blog theme!"
 date:   2022-07-27 14:06:16 +0900
-background: "/assets/img/aws.png"
 author:
     name: 鈴木 太一郎
     picture: /assets/img/author/taichirs.jpeg
 ---
 
-![](/assets/img/aws.png)
+![]({{ site.baseurl }}/assets/img/aws.png)
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
